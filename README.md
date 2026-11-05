@@ -1,6 +1,11 @@
-# Contoso support chat
+<p align="center">
+  <img src="images/support-chat-logo.png" alt="Friendly outdoor-guide assistant in a mountain badge" width="300">
+</p>
 
-A local outdoor-store support demo built with the Microsoft Copilot SDK for Node.js.
+<h1 align="center">Contoso support chat</h1>
+
+<p align="center">A local outdoor-store support demo built with the Microsoft Copilot SDK for Node.js.</p>
+
 The app streams replies to the browser and uses the `get_order` tool to look up
 sample records in `orders.json`. The assistant has no shell or file tools.
 Each browser has a separate conversation, which expires after 30 minutes of
