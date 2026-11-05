@@ -1,6 +1,6 @@
 # Contoso support chat
 
-A local outdoor-store support demo built with the GitHub Copilot SDK for Node.js.
+A local outdoor-store support demo built with the Microsoft Copilot SDK for Node.js.
 The app streams replies to the browser and uses the `get_order` tool to look up
 sample records in `orders.json`. The assistant has no shell or file tools.
 Each browser has a separate conversation, which expires after 30 minutes of
